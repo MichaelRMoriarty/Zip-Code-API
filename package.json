@@ -1,0 +1,22 @@
+{
+  "name": "zip-code-api",
+  "version": "1.0.0",
+  "description": "Stacksource Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelRMoriarty/Zip-Code-API.git"
+  },
+  "author": "Michael R Moriarty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelRMoriarty/Zip-Code-API/issues"
+  },
+  "homepage": "https://github.com/MichaelRMoriarty/Zip-Code-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
